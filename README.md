@@ -3,5 +3,5 @@
 
 This is Shiying Lai's work. I create my own staffs in my own branches. Second Time Test.
 
-This is the README.md file for final group work, please create your own branch, and merge your name here.
+This is the README.md file for final group work.
 
